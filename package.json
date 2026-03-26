@@ -1,0 +1,29 @@
+{
+  "name": "wp-tailwind-blog-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subas-roy/wp-tailwind-blog-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subas-roy/wp-tailwind-blog-theme/issues"
+  },
+  "homepage": "https://github.com/subas-roy/wp-tailwind-blog-theme#readme",
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "daisyui": "^5.5.19",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2",
+    "vite": "^8.0.3"
+  }
+}
